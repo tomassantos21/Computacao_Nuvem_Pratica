@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "timer7",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "*/30 * * * * *"
+    }
+  ]
+}
